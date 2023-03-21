@@ -1,0 +1,49 @@
+:root {
+  --omnilife-purple: #5d3487;
+  --omnilife-orange: #e7a04b;
+  --omnilife-orange-secondary: #e8aa5d;
+  --omnilife-gray: #efefef;
+  --omnilife-gray-text: #686868;
+}
+
+.title-main {
+  color: var(--omnilife-purple);
+  font-weight: bolder;
+}
+
+.line-divisor {
+  border-top: 3px solid var(--omnilife-orange-secondary);
+  height: 20px;
+  max-width: 100px;
+  padding: 0;
+  margin: 20px auto 0 0;
+}
+
+#formOmnilife {
+  background-color: var(--omnilife-gray);
+  border-radius: 20px;
+}
+
+.text-omnilife {
+  font-size: 18px;
+}
+
+.color-text-gray {
+  color: var(--omnilife-gray-text);
+}
+
+.color-text-purple {
+  color: var(--omnilife-purple);
+}
+
+.color-text-white {
+    color: var(--omnilife-gray);
+}
+
+#products {
+    background-color: var(--omnilife-purple);
+}
+
+#omnilife-section {
+    background-color: var(--omnilife-purple);
+}
